@@ -1,13 +1,13 @@
 # BetterConsoleApp
 
 ## Overview
-This repo the output of following along with the YouTube video.  The goal of the video is to create a console application that has Configuration, Dependency Injection and Logging (with Serilog).
+This repo is the output of following along with the YouTube video link below.  The goal of the video is to create a console application that has Configuration, Dependency Injection and Logging (with Serilog).
 
 [.NET Core Console App with Dependency Injection, Logging, and Settings](https://www.youtube.com/watch?v=GAOCe-2nXqc&t=318s) by Tim Corey
 
 ## Getting Started
 
-1. Create a new .NET Core Console Application either by using the Visual Studio or the dotnet CLI command 
+1. Create a new .NET Core Console Application either by using Visual Studio or the dotnet CLI command 
 
    dotnet new console -o ConsoleUI
 
