@@ -34,8 +34,8 @@ namespace ConsoleUI
                 .UseSerilog()
                 .Build();
 
+            // Do some work
             var greetingService = host.Services.GetService<IGreetingService>();
-            //var svc = ActivatorUtilities.CreateInstance<IGreetingService>(host.Services);
 
             greetingService.Run();
         }
